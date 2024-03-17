@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoteGeneratorTcpServer", "HomeWork3\QuoteGeneratorTcpServer.csproj", "{BFFAC256-9987-497C-A69B-740027332F73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoteGeneratorClient", "QuoteGeneratorClient\QuoteGeneratorClient.csproj", "{B4A792F4-1FA3-448C-84ED-2E4E2301F227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFFAC256-9987-497C-A69B-740027332F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFAC256-9987-497C-A69B-740027332F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFAC256-9987-497C-A69B-740027332F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFAC256-9987-497C-A69B-740027332F73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A792F4-1FA3-448C-84ED-2E4E2301F227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A792F4-1FA3-448C-84ED-2E4E2301F227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A792F4-1FA3-448C-84ED-2E4E2301F227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A792F4-1FA3-448C-84ED-2E4E2301F227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5DCCAE1-14E3-4E9E-AB79-DE06307B8F06}
+	EndGlobalSection
+EndGlobal
